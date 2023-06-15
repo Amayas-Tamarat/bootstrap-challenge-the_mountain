@@ -1,4 +1,32 @@
-body{
+header{
     background-image: url(../images/bg_header.jpg);
     background-size: cover;
+    height: 955px;
+}
+
+#features{
+    background-color: white;
+}
+
+#about{
+    background-image: url(../images/bg_nuage.jpg);
+    background-size: cover;
+    height: 700px;
+}
+
+.card{
+    opacity: 30%;
+}
+
+.card-body{
+    height: 700px;
+}
+
+#blog{
+    background-color: white;
+}
+
+#img_blog{
+    width: 500px;
+    height: 500px;
 }
