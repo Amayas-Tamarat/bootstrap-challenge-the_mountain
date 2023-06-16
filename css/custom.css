@@ -30,3 +30,56 @@ header{
     width: 500px;
     height: 500px;
 }
+
+#history{
+    background-image: url(../images/bg_appareil_photo.jpg);
+    height: 700px;
+}
+
+#photos {
+    background-color: rgb(235, 233, 233);
+}
+
+#photo_desk {
+    width: 840px;
+}
+
+#photo_bridge {
+    width: 420px;
+    height: 650px;
+}
+
+#photo_motel {
+    width: 840px;
+}
+
+#photo_camera {
+    width: 400px;
+}
+
+#photo_mountain {
+    height: 1000px;
+}
+
+#photo_plane {
+    width: 413px;
+    height: 282px;
+}
+
+
+
+.contact{
+    width: 200px;
+    height: 200px;
+}
+
+#download{
+    background-image: url(../images/bg_newsletter.jpg);
+    height: 500px;
+}
+
+footer {
+    background-color: rgb(19, 19, 32);
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
